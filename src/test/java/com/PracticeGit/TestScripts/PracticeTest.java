@@ -9,6 +9,7 @@ public class PracticeTest {
 		
 		System.out.println("This is my first Commit - Khadija");
 		
-		
+		System.out.println("This is my Commit - Khadija");
+
 	}
 }
